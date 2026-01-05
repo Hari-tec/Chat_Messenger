@@ -9,19 +9,30 @@ The application also maintains chat logs with timestamps for future reference an
 🚀 Features
 
 
-Real-time text-based messaging.
+-Real-time text-based messaging.
 
-TCP/IP communication using Java Sockets.
+-TCP/IP communication using Java Sockets.
 
-Multi-client handling using multithreading.
+-Multi-client handling using multithreading.
 
-Timestamped chat message logging.
+-Timestamped chat message logging.
 
-Reliable and ordered message delivery.
+-Reliable and ordered message delivery.
 
-Graceful handling of client disconnections.
+-Graceful handling of client disconnections.
 
-Console-based user interface.
+-Console-based user interface.
+
+
+🛠️ Technologies Used
+
+
+Programming Language: Java
+Networking: java.net.Socket, ServerSocket
+Multithreading: java.lang.Thread
+I/O Handling: BufferedReader, PrintWriter
+File Handling: FileWriter, BufferedWriter
+Protocol: TCP/IP
 
 
 
