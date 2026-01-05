@@ -6,7 +6,7 @@ This project is a Peer-to-Peer Chat Application developed in Java using TCP/IP s
 It enables real-time, bi-directional communication between multiple clients over a network. 
 The application also maintains chat logs with timestamps for future reference and analysis.
 
-🚀 Features
+##🚀 Features
 
 
 -Real-time text-based messaging.
@@ -26,7 +26,7 @@ The application also maintains chat logs with timestamps for future reference an
 
 
 
-#🛠️ Technologies Used
+##🛠️ Technologies Used
 
 Programming Language: Java
 
