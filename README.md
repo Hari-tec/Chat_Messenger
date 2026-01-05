@@ -7,6 +7,7 @@ It enables real-time, bi-directional communication between multiple clients over
 The application also maintains chat logs with timestamps for future reference and analysis.
 
 #🚀 Features
+
 -Real-time text-based messaging
 -TCP/IP communication using Java Sockets
 -Multi-client handling using multithreading
