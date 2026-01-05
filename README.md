@@ -24,8 +24,9 @@ The application also maintains chat logs with timestamps for future reference an
 -Console-based user interface.
 
 
-🛠️ Technologies Used
 
+
+🛠️ Technologies Used
 
 Programming Language: Java
 
