@@ -26,7 +26,7 @@ The application also maintains chat logs with timestamps for future reference an
 
 
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 
 Programming Language: Java
 
