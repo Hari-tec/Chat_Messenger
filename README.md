@@ -28,10 +28,15 @@ The application also maintains chat logs with timestamps for future reference an
 
 
 Programming Language: Java
+
 Networking: java.net.Socket, ServerSocket
+
 Multithreading: java.lang.Thread
+
 I/O Handling: BufferedReader, PrintWriter
+
 File Handling: FileWriter, BufferedWriter
+
 Protocol: TCP/IP
 
 
